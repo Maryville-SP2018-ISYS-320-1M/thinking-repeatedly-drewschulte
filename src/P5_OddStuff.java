@@ -16,13 +16,14 @@ public class P5_OddStuff {
 		        for( int count = 1; count <= number; count++ ) {
 		            System.out.println( number );
 		            number = number / 2;
-		            System.out.println("I thought it would print out 2 more lines than it did");
+		         
 		        }
 
 	}
 
+		   
 }
 
 
 
-// 3. Were you correct? Explain any differences and what you learned.
+// 3. Were you correct? Explain any differences and what you learned.No, I thought it would print out more lines than it did
